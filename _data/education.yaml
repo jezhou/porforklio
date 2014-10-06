@@ -1,0 +1,11 @@
+publish: 
+
+list:
+  - school:
+    start_date:
+    end_date: 
+    major:
+    degree:
+    gpa: 
+    courses:
+      - class:
