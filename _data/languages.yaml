@@ -1,5 +1,7 @@
 publish: 
 
 list:
-  - name: 
-    level:
+  - name: English
+    level: 5
+  - name: Korean
+    level: 1

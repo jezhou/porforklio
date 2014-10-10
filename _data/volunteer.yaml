@@ -1,11 +1,13 @@
 publish:
 
 list:
-  - org:
-    job:
-    start_date:
-    end_date:
-    link:
-    summary:
+  - org: Wildling Camp
+    job: Double-crossing Spy
+    start_date: 00/00/00
+    end_date: 00/00/00
+    link: www.awyissygritte.com
+    summary: >
+      I pretended to be a wildling, but I was actually a crow. Swagbear.
     highlights:
-      - bullet: 
+      - bullet: Spied on the dangerous wildlings
+      - bullet: Scored with Ygritte

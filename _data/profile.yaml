@@ -1,21 +1,25 @@
-name: 
-title: 
+name: Jon Snow
+title: Steward / Leader of The Night's Watch
 photo: 
-quote: 
+quote: I know nothing.
 cover_photo: 
 summary: >
+  My name is Jon Snow. I am the bastard son of Eddard Stark.
+  I pretty much never show any emotion on my face. Hire me
+  for bodyguard stuff or Texas Hold 'Em.
 
 contact: 
-  email: 
-  phone:
-  website:
-  summary:
+  email: jonsnow@housestark.net
+  phone: 000-000-0000
+  website: www.iamjonsnow.net
   address: >
+    1800 Castle Rd.
+    Winterfell, WS 00100
 
 networks:
-  github:
-  linkedin:
-  instagram:
+  github: jonsnow
+  linkedin: jonsnow
+  instagram: jonsnow
   facebook:
   googleplus:
   youtube: 

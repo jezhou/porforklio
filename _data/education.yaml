@@ -1,11 +1,12 @@
 publish: 
 
 list:
-  - school:
-    start_date:
-    end_date: 
-    major:
-    degree:
-    gpa: 
+  - school: Winterfell Grammar School
+    start_date: 00/00/00
+    end_date: 00/00/00
+    major: Combat
+    degree: Bachelor
+    gpa: 2.9
     courses:
-      - class:
+      - class: FIGT 210 - Basics of Longsword Fighting
+      - class: PET 30 - Advanced Direwolf Training

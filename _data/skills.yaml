@@ -1,7 +1,15 @@
-publish:
+publish: true
 
 list: 
-  - set_name: 
+  - set_name: Combat 
     keywords:
-      - skill_name:
-        proficiency:
+      - skill_name: Longsword
+        proficiency: 5
+      - skill_name: Knife
+        proficiency: 3
+  - set_name: Socializing
+      - skill_name: Leadership
+        proficiency: 4
+      - skill_name: Talking to girls
+      - skill_name: 1
+

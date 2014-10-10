@@ -1,8 +1,9 @@
 publish: 
 
-list:
-  - name:
-    date:
-    awarder:
-    summary:
+list: 
+  - name: The Wall Leadership Award
+    date: 00/00/00
+    awarder: Jeor Mormont
+    summary: >
+      Basically for being a badass
     

@@ -1,11 +1,14 @@
 publish:
 
 list:
-  - company:
-    job:
-    start_date:
-    end_date:
-    link:
-    summary:
+  - company: The Night's Watch
+    job: Steward / Temporary Ranger
+    start_date: 00/00/00
+    end_date: 00/00/00
+    link: www.sellmysoul.com
+    summary: > 
+      Basically the best person on The Night's Watch.
     highlights:
-      - bullet: 
+      - bullet: Hand trained new recruits how to fight with a sword
+      - bullet: Became a talented leader
+      - bullet: Still never had to show emotion on my face

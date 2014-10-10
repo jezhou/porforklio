@@ -1,10 +1,13 @@
-publish: 
+publish: true
 
 list:
-  - name: 
-    link:
+  - name: My Github Resume
+    link: www.jonsnowlifting.com
     picurl:
-    startdate:
-    description:
+    startdate: 00/00//00
+    description: >
+      This project is literally a repository of me pushing a bunch of text files
+      about how much I fucking love lifting weights.
     highlights:
-      - bullet: 
+      - bullet: Learned Git, pushed text files of me lifting
+      - bullet: Over 3 forks

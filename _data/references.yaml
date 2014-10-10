@@ -1,7 +1,15 @@
-publish: 
+publish: true
 
 list: 
-  - name:
-    email: 
-    phone: 
-    quote: 
+  - name: Samwell Tarly
+    email: sam@housetarly.com
+    phone: 000-000-0000
+    quote: >
+      Jon Snow is the only person who has ever stood up for me.
+      I love his never changing face!
+  - name: Alliser Thorne
+    email: alliser@noonelikesu.com
+    phone: 000-000-0000
+    quote: >
+      I don't know why the fuck Jon Snow included me as a reference.
+      I hate the bastard.
